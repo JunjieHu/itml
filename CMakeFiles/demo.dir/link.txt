@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/demo.dir/itml.cpp.o CMakeFiles/demo.dir/utility.cpp.o CMakeFiles/demo.dir/demo.cpp.o  -o demo -rdynamic -L/usr/local/lib -lboost_system -lboost_thread -Wl,-rpath,/usr/local/lib 

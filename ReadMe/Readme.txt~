@@ -1,0 +1,14 @@
+This is the C++ implementation of ITML by Junjie Hu (jjhu@cse.cuhk.edu.hk).
+
+To use this C++ version, you need to install the C++ boost library, which is very popular in std C++ users.
+You can install it from its website. http://www.boost.org/
+
+After the instalation, we can paste all the files on the Linux. It is tested on the Ubuntu 12.04.
+The result is exactly the same as the Matlab version, but much faster. 
+Run the demo:
+1. cmake .
+2. make
+3. ./demo
+
+Then you will find the result in the ./dataset folder. 
+Please refer to the implementation detail by ImplementationDetail.pdf and the folder ./html/. 
